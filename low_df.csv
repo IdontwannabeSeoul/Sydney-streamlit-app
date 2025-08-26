@@ -1,0 +1,17 @@
+﻿in_out,places,destinations_eng,destinations_kor,kind_eng,kind_kor,rental,hours,holiday
+실외,시티 내,The University of Sydney,시드니 대학교,University,대학교,X,10:00-16:30,-
+실내,시티 내,Black Star Pastry,블랙스타 패스츄리,Café,카페,X,08:00-18:00,-
+실내,시티 내,White Rabbit Gallery,화이트 래빗 갤러리,Gallery,전시장,X,10:00-17:00,월화 휴무
+실외,시티 내,Opera House,오페라 하우스,Landmark,랜드마크,X,09:00-17:00,
+실외,시티 내,Harbour Bridge,하버 브리지,Landmark,랜드마크,X,-,-
+실내,시티 내,Single O,싱글 오,Café,카페,X,07:00-15:30,-
+실외,시티 밖,Carriageworks,캐리지웍스,Market,시장,X,10:00-17:00,월화 휴무
+실내,시티 내,Hyde Park,하이드 파크,Gallery,전시장,X,-,-
+실외,시티 밖,Bondi Beach,본다이 비치,Beach,비치,X,-,-
+실외,시티 내,Taronga Zoo,타롱가 주,Zoo,동물원,X,09:30-17:00,-
+실내,시티 내,Hyde Park Barracks,하이드 파크 베러스,Gallery,전시장,X,10:00-16:30,-
+실내,시티 내,Justice & Police Museum,경찰 박물관,Gallery,전시장,X,10:00-17:00,-
+실외,시티 밖,Blue Mountains,블루 마운틴,Lookout,룩 아웃,O,-,-
+실외,시티 밖,Blackheath,블랙 힐스,Village,마을,O,09:00-16:30,-
+실외,시티 밖,Hartley Historic Site,하틀리 히스토릭 사이트,Village,마을,O,08:30-16:30,-
+실외,시티 밖,Stockton Beach,스톡턴 비치,Beach,비치,O,-,-
