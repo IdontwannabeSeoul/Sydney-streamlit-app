@@ -8,9 +8,8 @@ from streamlit_folium import st_folium
 import folium
 
 # 데이터 호출
-path = 'C:\Works\Sydney'
-low_df = pd.read_csv(path + '\low_df.csv')
-# df = low_df
+# path = 'C:/Users/walte/PycharmProjects/pythonProject1'
+low_df = pd.read_csv('low_df.csv')
 
 # 데이터 정제
 def cleaning(df):
